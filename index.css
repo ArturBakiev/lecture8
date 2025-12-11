@@ -1,0 +1,43 @@
+body {
+    margin:5px;
+    padding:0px;
+}
+p {
+    font-size: 18px;
+}
+
+.header__logo {
+    width:300px;
+}
+.header__nav {
+    background-color:grey;
+}
+.header__nav {
+    color:black;
+}
+.header__ref {
+    text-decoration: none;
+    color:white;
+}
+
+.about__title {
+    text-align: center ;
+}
+.contacts__carousel {
+    display:flex;
+    justify-content: center;
+}
+.contacts__title {
+    text-align: center;
+}
+.contacts__underimg {
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+.closed__img {
+    text-align: center;
+}
